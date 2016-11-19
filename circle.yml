@@ -2,7 +2,7 @@ machine:
   services:
     - docker
   environment:
-    DOCKER_IMG="pryz/fpm-builder"
+    DOCKER_IMG: pryz/fpm-builder
 
 dependencies:
   override:

@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:16.04
 MAINTAINER Pryz "ju.pryz@gmail.com"
 
 ENV DEBIAN_FRONTEND noninteractive
